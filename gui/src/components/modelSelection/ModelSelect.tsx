@@ -239,7 +239,7 @@ function ModelSelect() {
                 >
                   <div className="flex items-center py-0.5">
                     <PlusIcon className="mr-2 h-3 w-3" />
-                    Add Chat model
+                    Add Chat models
                   </div>
                 </ListboxOption>
               </>
